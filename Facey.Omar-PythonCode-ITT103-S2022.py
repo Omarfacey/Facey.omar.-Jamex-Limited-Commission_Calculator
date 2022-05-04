@@ -1,6 +1,6 @@
 
 #Author:Omar Facey
-#Date: Craeted:April 29,2022
+#Date: Created:April 29,2022
 #Course: ITT103
 #Purpose: <There are a lot of salespeople working for JamEX Limited, and commission computations are frequently time-consuming and sometimes
 #          incorrect owing to someone being tired after many calculations. The computation procedure is sped up with this program.>
